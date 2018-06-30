@@ -22,7 +22,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 -----------------------------------------------------------------------------------------------------------------------
 
-##The R run_analysis.R
+#The R run_analysis.R
 
 #run_analysis.R
 
